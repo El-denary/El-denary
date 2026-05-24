@@ -1,15 +1,13 @@
 <div align="center">
 
-# Osama Abo-Bakr Khalifa
+# Youssef Sobhy Eldenary
 
-### I build AI Agents and RAG systems that work in production — not just in demos.
+### I turn ideas into intelligent solutions using AI Agents, NLP, RAG System, and LLMs
 
-*Senior AI Engineer · CTO @ NexAI (Riyadh) · Top-Rated Upwork Freelancer · Kaggle Expert*
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/osama-abo-bakr-293614259)
-[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/osamaa305)
-[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/osamaabobakr)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://osama-abo-bakr.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeldenary)
+[![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)
+
 
 </div>
 
@@ -25,11 +23,9 @@
 
 ---
 
-Most AI projects fail not because the model is wrong — but because they never connect to real business data or real workflows.
+I develop AI-powered applications, design NLP pipelines, build intelligent chatbots and RAG systems, and create data-driven solutions that transform complex data into actionable insights and autonomous agents that can reason and take action, knowledge systems powered by your data, and AI automation that removes hours of repetitive manual work.
 
-I specialize in **Agentic AI systems** and **RAG pipelines** that actually integrate into how businesses run: agents that reason and act autonomously, knowledge bases built from *your* data, and automation that eliminates hours of manual work.
-
-Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designing system architecture, making technical decisions, and shipping production AI products. Previously built AI agents and vector search systems for banking operations at **CIB**. I bring that same production-grade thinking to every engagement, no matter the size.
+Skilled in data analysis, data preprocessing, and extracting meaningful insights to support intelligent decision-making.  
 
 ---
 
@@ -39,8 +35,8 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 |------|-------------|-----------|
 | 🤖 **AI Agents** | Multi-agent pipelines that fetch, reason, and act in sequence — autonomously | LangGraph · CrewAI · LangChain |
 | 📚 **RAG Systems** | Production knowledge bases from docs, PDFs, databases — hybrid search + memory | LlamaIndex · Weaviate · Pinecone |
-| 🏛️ **Enterprise AI Apps** | End-to-end AI platforms with auth, dashboards, real integrations | FastAPI · Next.js · PostgreSQL |
-| 🔄 **Workflow Automation** | Pipelines connecting CRM, Slack, WhatsApp, email — zero manual intervention | n8n · Make · Custom APIs |
+| 📊 Data Analysis & ML | Data preprocessing, exploratory analysis, predictive modeling, and insight extraction | Pandas · Scikit-learn · NumPy . Power BI|
+| 🔄 **Workflow Automation** | Pipelines connecting CRM, Slack, WhatsApp, email — zero manual intervention | n8n · Custom APIs |
 
 ---
 
@@ -86,19 +82,18 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 <tr>
 <td valign="top" width="33%">
 
-### Web & APIs
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+### Data Analysis & BI
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+![Python](https://img.shields.io/badge/Python_Data_Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 </td>
 <td valign="top" width="33%">
 
 ### Cloud & DevOps
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![GCP](https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
@@ -118,37 +113,14 @@ Currently leading the engineering team at **NexAI (Riyadh)** as CTO — designin
 
 ---
 
-## 🏆 Recognition
-
-| Platform | Achievement | Detail |
-|----------|-------------|--------|
-| Upwork | **Top-Rated Freelancer** | 100% Job Success Score |
-| Kaggle | **Expert** | Active competitions & datasets |
-| HackerRank | **Top 98th in Egypt** | Python |
-| HackerRank | **#1 at Menoufia University** | Data Structures & Python |
-| HackerRank | **#2 at Menoufia University** | Algorithms & C++ |
-
----
-
-## 💼 Experience
-
-**CTO & Senior AI Engineer** @ NexAI · Riyadh, KSA
-Leading the engineering team — system architecture, technical decisions, and end-to-end delivery of enterprise AI products including LLM apps, RAG pipelines, and multi-agent platforms.
-
-**AI Engineering Intern** @ Commercial International Bank (CIB) · Egypt
-Built AI agents, RAG pipelines, and vector search systems for banking operations.
-
-**Top-Rated AI Freelancer** @ Upwork · Global
-Delivering production AI systems for startups and enterprise teams worldwide.
-
----
 
 ## 📫 Work With Me
 
-**Open to:** AI consulting · RAG system builds · Agentic AI architecture · Senior AI engineering roles
+**Open to:** AI Agent & RAG Development · Data Analysis & Business Intelligence · Workflow Automation & Integrations 
 
-📧 [osamaoabobakr12@gmail.com](mailto:osamaoabobakr12@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/osamaa305) · 🌐 [Portfolio](https://osama-abo-bakr.vercel.app/)
+Freelance • Remote • Contract • Startup Collaborations
 
+📧 [yeldenary@gmail.com](yeldenary@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/) 
 
 <br/>
 
