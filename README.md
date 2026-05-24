@@ -1,13 +1,24 @@
 <div align="center">
 
-# Youssef Sobhy Eldenary
+# Youssef Sobhy El-denary
 
-### I turn ideas into intelligent solutions using AI Agents, NLP, RAG System, and LLMs
+### Turing ideas into intelligent solutions using AI Agents, NLP, RAG System, and LLMs
+</div>
 
 
+I develop AI-powered applications, design NLP pipelines, build intelligent chatbots and RAG systems, and create data-driven solutions that transform complex data into actionable insights and autonomous agents that can reason and take action, knowledge systems powered by your data, and AI automation that removes hours of repetitive manual work.
+
+Skilled in data analysis, data preprocessing, and extracting meaningful insights to support intelligent decision-making.  
+
+
+
+
+
+<div align="center">
+  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yeldenary)
 [![Upwork](https://img.shields.io/badge/Upwork-6fda44?style=for-the-badge&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/)
-
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/youssef_el.denary/)
 
 </div>
 
@@ -21,13 +32,7 @@
   </picture>
 </div>
 
----
 
-I develop AI-powered applications, design NLP pipelines, build intelligent chatbots and RAG systems, and create data-driven solutions that transform complex data into actionable insights and autonomous agents that can reason and take action, knowledge systems powered by your data, and AI automation that removes hours of repetitive manual work.
-
-Skilled in data analysis, data preprocessing, and extracting meaningful insights to support intelligent decision-making.  
-
----
 
 ## 🎯 What I Specialize In
 
@@ -120,7 +125,7 @@ Skilled in data analysis, data preprocessing, and extracting meaningful insights
 
 Freelance • Remote • Contract • Startup Collaborations
 
-📧 [yeldenary@gmail.com](yeldenary@gmail.com) · 💼 [Upwork](https://www.upwork.com/freelancers/) 
+📧 [yeldenary@gmail.com](mailto:yeldenary@gmail.com) · [Upwork](https://www.upwork.com/freelancers/) 
 
 <br/>
 
